@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+ int i, a, b;
+ scanf("%d %d", &a, &b);
+ for(i=a; i<b; i++)
+ {
+     printf("바삭한 해물파전 먹고싶다.. 김치전도..");
+ }
+
+}
